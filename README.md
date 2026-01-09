@@ -20,8 +20,8 @@ python --version
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/N1kor4/Hallgren-s-algorithm
+cd Hallgren-s-algorithm
 pip install -r requirements.txt
 ```
 
