@@ -1,8 +1,3 @@
-Here’s a **concise, copy-paste-ready Quick Start section** you can drop directly into your `README.md`.
-It assumes your project uses **Qiskit + Aer + noise models**, based on your imports.
-
----
-
 ## 🚀 Quick Start
 
 This project uses **Qiskit** to build, simulate, and analyze quantum circuits with optional noise models.
